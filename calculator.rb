@@ -1,4 +1,4 @@
 # Add your variables here
 
-first_number=1;
-second_number=2;
+def first_number=1;
+ def second_number=2;
