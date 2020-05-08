@@ -1,5 +1,3 @@
 # Add your variables here
 
-def first_number (number)
-return #{number}
-end
+def first_number= 1
